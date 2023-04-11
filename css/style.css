@@ -1,0 +1,77 @@
+body{
+    background-image: url('https://wallpapercave.com/wp/wp2757874.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+/* Text Shadow */
+h1 {
+    color: white;
+  text-shadow: 6px 7px 4px #000000;
+  }
+
+p {
+    color: white;
+  text-shadow: 5px 5px 4px #000000;
+}
+
+h4 {
+    color: white;
+  text-shadow: 5px 5px 4px #000000;
+}
+
+h3 {
+    color: white;
+  text-shadow: 5px 5px 4px #000000;
+}
+
+li {
+    color: white;
+  text-shadow: 5px 5px 4px #000000;
+}
+
+span {
+    color: white;
+  text-shadow: 5px 5px 4px #000000;
+}
+
+a {
+    color: white;
+  text-shadow: 5px 5px 4px #000000;
+}
+
+span {
+
+  color: white;
+  text-shadow: 5px 5px 4px #000000;
+
+}
+
+td {
+
+  color: white;
+  text-shadow: 5px 5px 4px #000000;
+  
+}
+
+th {
+
+  color: white;
+  text-shadow: 5px 5px 4px #000000;
+  
+}
+
+/* END Text Shadow */
+
+/* img shadow */
+
+img {
+  box-shadow: 10px 10px 20px #000000;
+}
+
+/* END img shadow */
